@@ -43,7 +43,7 @@ Built using **Flask**, the web app allows users to input diamond features and ge
 
 ```bash
 # Install required libraries
-pip install flask scikit-learn pandas xgboost
+pip install -r .\requirements.txt
 
 # Run the Flask app
 python main.py
